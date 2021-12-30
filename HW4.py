@@ -1,3 +1,5 @@
+#參考資料：https://github.com/timmmGZ/JPEG-DCT-Compression
+
 import numpy as np
 from numpy import array
 from skimage.color import rgb2ycbcr
